@@ -1,0 +1,9 @@
+.env
+__pycache__
+credentials.json
+token.json
+test.py
+.gcloudignore
+app.yaml
+requirements.txt
+/img
